@@ -1,4 +1,4 @@
-# simple static webpage example
+# simple static website example
 
 use this as you like
 
